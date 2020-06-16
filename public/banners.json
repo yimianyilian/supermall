@@ -1,0 +1,25 @@
+{
+    "code":200,
+    "msg":"success",
+    "data":[
+        {
+            "link":"#",
+            "image":"https://s11.mogucdn.com/mlcdn/c45406/200607_5k0d4fik4647258ajiegibb3keaij_1125x390.jpg"
+        },
+        {
+            "link":"#",
+            "image":"https://s11.mogucdn.com/mlcdn/c45406/200608_54l5j9i9gc3ikc09bhbkgdji1l3e1_1125x390.jpg"
+        },
+        {
+            "link":"#",
+            "image":"https://s5.mogucdn.com/mlcdn/c45406/200609_7kdh2e63b7a1i0d05c1f583hfhi07_1125x390.jpg"
+        },
+        {
+            "link":"#",
+            "image":"https://s11.mogucdn.com/mlcdn/c45406/200609_6784eldd3979cc9i9ife4233bah12_1125x390.jpg"
+        },
+        {
+            "link":"#",
+            "image":"https://s5.mogucdn.com/mlcdn/c45406/200609_21dakl66b60edja9k2hk02b5k21lc_1125x390.jpg"
+        }]
+}
